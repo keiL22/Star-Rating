@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap');
+
+:root{
+    --color-background: rgb(173, 216, 230);
+    --color-box: white;
+
+    --color-star-on: rgb(253, 204, 13);
+    --color-star-off:  rgb(209, 209, 209);
+
+    --font-family:'Rubik', sans-serif;
+    --font-weight: 500;
+    --font-size: 20px;
+}
+
+body{
+    background-color: var(--color-background);
+}
+
+.star-rating{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.star-box{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: var(--font-family);
+    font-weight: var(--font-weight);
+    font-size: var(--font-size);
+    background-color: var(--color-box);
+
+    padding: 20px 20px;
+    border-radius: 10px;
+    max-width: 750px;
+    min-width: 750px;
+    margin: 400px auto;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.star-list{
+    padding: 0px;
+    list-style-type: none;
+}
+
+.star{
+    color: transparent;  
+    text-shadow: 0 0 0 var(--color-star-on);
+    scale: 2;
+    margin: 20px 20px 40px 20px;
+    justify-content: center;
+    align-items: center;
+    display: inline-block;
+
+    
+}
+
+.star-on{ 
+    text-shadow: 0 0 0 var(--color-star-on);
+
+    transition: all ease-in-out .5s;
+    animation-name: starScale;
+    animation-timing-function: ease-in-out; 
+	animation-duration: 0.8s;
+}
+
+.star-off{
+    text-shadow: 0 0 0 var(--color-star-off);
+
+    transition: all ease-in-out .5s;
+}
+
+@keyframes starScale {
+    0%{
+        scale: 2.0;
+    }
+    50%{
+        scale: 2.5;
+    }
+    100%{
+        scale: 2.0;
+    }
+}

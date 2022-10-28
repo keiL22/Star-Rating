@@ -58,11 +58,10 @@ body{
 }
 
 .star-on{ 
-    text-shadow: 0 0 0 var(--color-star-on);
-
     transition: all ease-in-out .5s;
     animation-name: starScale;
     animation-timing-function: ease-in-out; 
+    animation-fill-mode: forwards;
 	animation-duration: 0.8s;
 }
 
@@ -84,12 +83,15 @@ body{
 
 @keyframes starScale {
     0%{
+        text-shadow: 0 0 0 var(--color-star-on);
         scale: 2.0;
     }
     50%{
+        text-shadow: 0 0 0 var(--color-star-on);
         scale: 2.5;
     }
     100%{
+        text-shadow: 0 0 0 var(--color-star-on);
         scale: 2.0;
     }
 }

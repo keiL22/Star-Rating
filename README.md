@@ -17,10 +17,10 @@
   
   ><img width="20" src="https://imgur.com/rzRlaDz.png" alt="Icon Image">〘 ᴍᴇss ᴡɪᴛʜ ᴄss ᴀɴɪᴍᴀᴛɪᴏɴ 〙
   
-  ><img width="20" src="https://imgur.com/rzRlaDz.png" alt="Icon Image">〘 ᴀᴅᴅ ᴘᴏʀᴛғᴏʟɪᴏ ᴇʟᴇᴍᴇɴᴛs 〙
+  ><img width="20" src="https://imgur.com/rzRlaDz.png" alt="Icon Image">〘 ᴀᴅᴅ ғɪʀsᴛ ᴘᴇʀᴄᴇɴᴛ ᴅɪғғᴇʀᴇɴᴄᴇ 〙
   
-  ><img width="20" src="https://imgur.com/rzRlaDz.png" alt="Icon Image">〘 ᴀᴅᴅ ᴀ ᴡᴀʏ ᴛᴏ ᴄᴏɴᴛᴀᴄᴛ 〙
+  ><img width="20" src="https://imgur.com/rzRlaDz.png" alt="Icon Image">〘 ᴀᴅᴅ sᴇᴄᴏɴᴅ ᴘᴇʀᴄᴇɴᴛ ᴅɪғғᴇʀᴇɴᴄᴇ 〙
   
-  ><img width="20" src="https://imgur.com/rzRlaDz.png" alt="Icon Image">〘 ʀᴇғɪɴᴇ CSS ғᴜʀᴛʜᴇʀ 〙
+  ><img width="20" src="https://imgur.com/rzRlaDz.png" alt="Icon Image">〘 research different ways to calculate percent difference 〙
 
 ------

@@ -1,5 +1,5 @@
 ## `🌿 STAR RATING 🌿`
-[`✦ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛᴀʟ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ`](https://keisukel.github.io/Portfolio/) ◆ `✦ LINK` ◆ `✦ LINK`
+[`✦ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛᴀʟ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ`]() ◆ `✦ LINK` ◆ `✦ LINK`
 
     Creating a simple star rating for a project, enter a percent value (1-100) and get a rating
     in stars back. Currently works with only percents but I'm looking to implement
